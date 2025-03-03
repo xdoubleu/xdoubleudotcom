@@ -1,0 +1,9 @@
+baseURL = 'https://xdoubleu.com/'
+languageCode = 'en-us'
+title = 'xdoubleu'
+author = 'Xander Warszawski'
+copyright = "Copyright © 2025, Xander Warszawski."
+theme = 'hugo-bearblog'
+
+[params]
+    hideMadeWithLine = true
