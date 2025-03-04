@@ -6,6 +6,8 @@ title = 'now'
 
 ## now
 
+Now is a concept I have seen on a couple of other blogs and is inspired on [now](https://nownownow.com/about).
+
 ### day job
 
 I'm currently employed as a DevOps Engineer at Skyline Communications (more about this and previous professional experiences on [my LinkedIn](https://www.linkedin.com/in/xdoubleu/)).
@@ -21,6 +23,10 @@ I love music, in so many ways. The social aspects, the artifacts produced by art
 Besides listening to music, I'm trying to get into mixing music but will need a lot of practice.
 
 Next to this, I'm also organizing some local music events in Roeselare.
+
+#### workshops
+
+I don't get to give a lot of workshops (typically around three a year), but I do really enjoy them and try to go the extra mile. Feel free to reach out if you find something interesting on my overview at [workshops](/workshops).
 
 #### projects
 
