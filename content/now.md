@@ -18,10 +18,8 @@ In my spare time I'm quite a busy bee. I'll try to list most of my busy keeping 
 
 #### music
 
-I love music, in so many ways. The social aspects, the artifacts produced by artists of almost every genre. You can have a peek at what I'm currently listening to on [volt.fm](https://volt.fm/xdoubleu).
-
+I love music, in so many ways. The social aspects, the artifacts produced by artists of almost every genre.
 Besides listening to music, I'm trying to get into mixing music but will need a lot of practice.
-
 Next to this, I'm also organizing some local music events in Roeselare.
 
 #### workshops
