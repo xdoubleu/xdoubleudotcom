@@ -6,6 +6,6 @@ title = 'home'
 
 ## welcome
 
-I'm **Xander Warszawski**, aka **xdoubleu**, a **software/devops/reliability engineer** based in **Roeselare, Belgium**.
+I'm **Xander Warszawski**, aka **xdoubleu**, a **software engineer** based in **Roeselare, Belgium**.
 
 Find out more about my current work/focus at [now](/now).
