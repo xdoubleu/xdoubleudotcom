@@ -1,6 +1,6 @@
 +++
 menus = 'main'
-date = '2025-03-03T20:46:44+01:00'
+date = '2026-08-28T17:49:00+02:00'
 title = 'now'
 +++
 
@@ -10,7 +10,7 @@ Now is a concept I have seen on a couple of other blogs and is inspired on [now]
 
 ### day job
 
-I'm currently employed as a DevOps Engineer at Skyline Communications (more about this and previous professional experiences on [my LinkedIn](https://www.linkedin.com/in/xdoubleu/)).
+I'm currently employed as a Software Engineer at In The Pocket (more about this and previous professional experiences on [my LinkedIn](https://www.linkedin.com/in/xdoubleu/)).
 
 ### spare time
 
@@ -20,7 +20,7 @@ In my spare time I'm quite a busy bee. I'll try to list most of my busy keeping 
 
 I love music, in so many ways. The social aspects, the artifacts produced by artists of almost every genre.
 Besides listening to music, I'm trying to get into mixing music but will need a lot of practice.
-Next to this, I'm also organizing some local music events in Roeselare.
+Next to this, I used to organize some local music events in Roeselare.
 
 #### workshops
 
@@ -29,9 +29,11 @@ I don't get to give a lot of workshops (typically around three a year), but I do
 #### projects
 
 Basically, if I have a problem which can only be solved by custom software I'll take care of it.
-Currently my main focus is my [goal-tracker](https://github.com/xdoubleu/goal-tracker) which I use to aggregate data for reading & gaming goals.
+Currently my main focus is my [tools.xdoubleu.com](https://github.com/xdoubleu/tools.xdoubleu.com), check the README to know what I'm up to there.
 
 #### reading & gaming
 
-Like last year, I'm trying to read 24 books this year (you can track my progress on [Goodreads](https://www.goodreads.com/user/show/114660594-xander-warszawski)).
-I'm also trying to work through my gaming backlog a bit, aiming to reach 50% avg. completion rate on Steam (you can track my progress on [completionist.me](https://completionist.me/steam/profile/76561198127953838)).
+I'm trying to clear out my backlog, but due to lack of time this is a struggle.
+You can track my backlogs yourself:
+- [Books](https://tools.xdoubleu.com/dashboard/reading/r-0FM8aRn3yTpy-UUqwczRgdo3JsiCQMYB_eXL2-8JY)
+- [Games](https://tools.xdoubleu.com/dashboard/games/mMeBipBCrLixwguu7Ad1R-qAzEAYvEmeSBukVNGb3sc)
